@@ -8,8 +8,6 @@ struct WordIndices
 };
 
 int string_length(char str[20]);
-int longest_word(char words[10][20]);
-int shortest_word(char words[10][20]);
 int vowel_counter(char word[20]);
 struct WordIndices maxmin_word(char words[10][20]);
 
